@@ -1,1 +1,2 @@
-# LetsGrowMore-Task3
+# LGM-TASK3
+Student Result Management System
